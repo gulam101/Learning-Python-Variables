@@ -14,9 +14,12 @@ When dealing with an big application the chances are their is going to be lots o
 
 ## Python Data Variables
 
+![IMG001](https://user-images.githubusercontent.com/45819118/71193638-5aa3d280-2282-11ea-8066-ada2b9358842.PNG)
+
 
 ### What I learnt:
 - Python Variables
+- Python Data Variables
 - Better understanding of Python IDE
 - Better understanding of naming variables
 
