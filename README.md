@@ -14,11 +14,11 @@ When dealing with an big application the chances are their is going to be lots o
 
 ## Python Data Variables
 
-In Python variables you have int, float and complex. They all store numbers and Python can call them as long as you put in the correct name.
+In Python, variables have int, float and complex. They all store numbers and Python can call them as long as you put in the correct name.
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71193638-5aa3d280-2282-11ea-8066-ada2b9358842.PNG)
 
-You can write text in Python which allows you store things like names and other data that you want to keep.
+You can write text in Python which allows you store things like names and other data that you want to keep. Text is called string in Python.
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71200783-9b0a4d00-2290-11ea-890c-ac64eefe5efc.PNG)
 
